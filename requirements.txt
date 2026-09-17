@@ -17,3 +17,4 @@ torchvision
 tqdm
 transformers==4.49.0
 sentencepiece
+pydantic==2.10.6
